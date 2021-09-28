@@ -1,0 +1,48 @@
+.para{
+    
+    padding:20px;
+
+}
+.img1{
+   
+    padding: 20px;
+    text-align: center;
+}
+.top{
+    color: white;
+    background-color: rgb(68, 66, 66);
+}
+.side{
+    color: white;
+    padding: 20px;
+    background-color: rgb(68, 66, 66);
+}
+.name{
+    background-color: rgb(36, 35, 35)!important;
+    color: white;
+}
+.date{
+    font-weight: 500;
+display: flex;
+justify-content: flex-end;
+}
+.exp{
+margin-left: 20px;
+}
+.cert{
+    margin-top: 30px;
+}
+.edu{
+    margin-top: 30px;
+
+}
+.ce{
+    margin-bottom: 20px;
+}
+.inner{
+    background-color: aliceblue;
+}
+    li{
+    /* line-height: 40px; */
+
+}
